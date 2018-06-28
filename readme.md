@@ -4,13 +4,17 @@
 
 This application monitors the honeypot experiments run by students
 
+## Installation
+
+Coming soon
+
 ## Authors
 
 Louis-Henri Merino
 
 ## Framework
 
-Laravel Framework at https://laravel.com
+Laravel Framework - https://laravel.com
 
 ## License
 
