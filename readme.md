@@ -6,7 +6,8 @@ This application monitors the honeypot experiments run by students
 
 ## Installation
 
-Coming soon
+1. composer install
+2. php artisan migrate
 
 ## Authors
 
