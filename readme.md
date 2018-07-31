@@ -7,7 +7,10 @@ This application monitors the honeypot experiments run by students
 ## Installation
 
 1. composer install
-2. php artisan migrate
+2. Set up the DB connection in /.env
+3. Set up CAS authentication in /.env
+3. php artisan migrate
+4. php artisan app:addUser
 
 ## Authors
 
