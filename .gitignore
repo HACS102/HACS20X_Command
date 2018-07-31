@@ -15,3 +15,5 @@ yarn-error.log
 # Mac System
 
 .DS_Store
+
+_ide_helper.php
